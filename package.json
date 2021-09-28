@@ -1,0 +1,14 @@
+{
+  "name": "unnamed",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.15.0",
+    "playwright": "^1.15.0"
+  }
+}
